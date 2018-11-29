@@ -1,0 +1,17 @@
+2018.12.24	hétfõ	Szenteste
+2018.12.25	kedd	Karácsony (hosszú hétvége)
+2018.12.26	szerda 	Karácsony
+2019.01.01	kedd	Újév elsõ napja
+2019.03.15	péntek	1848-as Forradalom ünnepe
+2019.04.19	péntek	Nagypéntek
+2019.04.22	hétfõ	Húsvét hétfõ
+2019.05.01	szerda	Munka ünnep
+2019.06.10	hétfõ	Pünkösd hétfõ
+2019.08.19	hétfõ	Szent István ünnepe pihenõnap
+2019.08.20	kedd	Szent István ünnepe
+2019.10.23	szerda	1956-os Forradalom ünnepe
+2019.11.01	péntek	Mindenszentek napja
+2019.12.24	kedd	Karácsony pihenõnap
+2019.12.25	szerda	Karácsony
+2019.12.26	csütörtök	Karácsony másnapja
+2019.12.27	péntek	Karácsony pihenõnap
