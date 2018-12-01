@@ -1,3 +1,3 @@
 # unnepnapok
 Ünnepnapok
-Feltöltöttem a dátumokat és a képeket hozzájuk
+A program megmutatja, hogy azon a napon ünnepnap van-e? Ha nincs, akkor kiírja azt, hogy "Nincs"
